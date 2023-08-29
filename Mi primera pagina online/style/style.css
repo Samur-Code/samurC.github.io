@@ -1,0 +1,26 @@
+html {
+    background-color: #cc3838;
+  }
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: skyblue;
+    padding: 0 20px 20px 20px;
+    border: 5px solid blue;
+  }
+
+  h1{
+        text-align: center;
+        margin: 0;
+        padding: 20px 0;
+        color: #00539f;
+        text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    width: 40%;
+    display: block;
+    margin: auto;
+  }
+
